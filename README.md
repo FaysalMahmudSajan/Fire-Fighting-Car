@@ -1,7 +1,7 @@
 # Fire Fighting Car & Alert System
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1MfY2n0nHJ1PsHNS3Ge9n2h5ei6XLAnNv/view?usp=drive_link" width="600"/>
+  <img src="https://github.com/Faysal3010/Fire-fight-car/blob/main/WhatsApp%20Image%202026-01-24%20at%202.47.11%20PM.jpeg" width="600"/>
   <img src="https://drive.google.com/file/d/1T_cTF34tpnNa1nKVrBhUBUiCmLU2Bnwq/view?usp=drive_link" width="600"/>
 </p>
 
