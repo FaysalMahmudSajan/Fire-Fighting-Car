@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Faysal3010/Fire-fight-car/blob/main/WhatsApp%20Image%202026-01-24%20at%202.47.11%20PM.jpeg" width="600"/>
-  <img src="https://drive.google.com/file/d/1T_cTF34tpnNa1nKVrBhUBUiCmLU2Bnwq/view?usp=drive_link" width="600"/>
+  <img src="https://github.com/Faysal3010/Fire-fight-car/blob/main/WhatsApp%20Image%202026-01-24%20at%202.49.36%20PM.jpeg" width="600"/>
 </p>
 
 An Arduino-based smart fire fighting robot that automatically detects fire, moves toward it, and extinguishes it using a water pump.  
