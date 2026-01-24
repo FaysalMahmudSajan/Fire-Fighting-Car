@@ -1,7 +1,8 @@
 # Fire Fighting Car & Alert System
 
 <p align="center">
-  <img src="" width="600"/>
+  <img src="https://drive.google.com/file/d/1MfY2n0nHJ1PsHNS3Ge9n2h5ei6XLAnNv/view?usp=drive_link" width="600"/>
+  <img src="https://drive.google.com/file/d/1T_cTF34tpnNa1nKVrBhUBUiCmLU2Bnwq/view?usp=drive_link" width="600"/>
 </p>
 
 An Arduino-based smart fire fighting robot that automatically detects fire, moves toward it, and extinguishes it using a water pump.  
