@@ -6,7 +6,8 @@
 </p>
 
 
-### video : https://youtu.be/KEN8z2rMZEw?si=6TZl8V0_H2nbCSly
+### video : 
+https://youtu.be/KEN8z2rMZEw?si=6TZl8V0_H2nbCSly
 
 An Arduino-based smart fire fighting robot that automatically detects fire, moves toward it, and extinguishes it using a water pump.  
 The system also detects smoke/alcohol gas and provides an alert using a buzzer.
