@@ -5,6 +5,9 @@
   <img src="https://github.com/Faysal3010/Fire-fight-car/blob/main/WhatsApp%20Image%202026-01-24%20at%202.49.36%20PM.jpeg" width="600"/>
 </p>
 
+
+### video : https://youtu.be/KEN8z2rMZEw?si=6TZl8V0_H2nbCSly
+
 An Arduino-based smart fire fighting robot that automatically detects fire, moves toward it, and extinguishes it using a water pump.  
 The system also detects smoke/alcohol gas and provides an alert using a buzzer.
 
